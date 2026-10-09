@@ -31,5 +31,5 @@ Source: [`Shaders/Grass.shader`](Shaders/Grass.shader)
 
 ## Project context
 
-Players control Lunala as she ascends the Celestial Tower, fighting enemies, using abilities, and upgrading between floors. The project was developed in Unity. My focus was on environment/level design and shaders.
+A real-time rendering study exploring stylized water and wind-driven grass effects in Unity using custom ShaderLab/HLSL shaders.
 
